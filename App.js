@@ -1,2 +1,3 @@
 App
 geolocation project
+install 
